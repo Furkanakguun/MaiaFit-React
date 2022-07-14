@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Manuel Terapi",
+        "content": "Manuel Terapi “el ile terapi-tedavi” anlamına gelmektedir. Manuel terapinin tarihçesine bakıldığında bilinen ilk tanımı modern tıbbın temelini oluşturan Hipokrat tarafından verilmiştir.",
+        "image": "/img/slid/02.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Klinik Pilates",
+        "content": "Gündelik hayatta yanlış pozisyonlar, tekrarlayan hareketler, uzun süre aynı pozisyonda kalmak gibi etkenler omurga dengesinin bozulmasına, kasların zayıflamasına, bel, boyun, sırt bölgelerinde ağrı ve problemlere yol açar.",
+        "image": "/img/slid/03.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Postur Analizi",
+        "content": "Postural kontrol; vücudun ağırlık merkezini dayanma yüzeyi üzerinde hareket ettirerek veya koruyarak, yerçekim alanı içinde dengeyi koruma yeteneğidir...",
+        "image": "/img/slid/01.jpg"
+    }
+]

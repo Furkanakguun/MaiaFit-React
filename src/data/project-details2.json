@@ -1,0 +1,71 @@
+{
+  "id": 1,
+  "title": { "small": "Hizmetler", "big": "Manuel Terapi" },
+  "clientURLLink": "#",
+  "projectHeaderImage": "/img/portfolio/project2/bg.jpg",
+  "videoLink": "https://vimeo.com/127203262",
+  "clientURLName": "Envato.com",
+  "date": "6 August 2022",
+  "categories": [
+    {
+      "id": 1,
+      "name": "Web Design",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "name": "WordPress",
+      "link": "#"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Minimal",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "name": "Modern",
+      "link": "#"
+    },
+    {
+      "id": 3,
+      "name": "Design",
+      "link": "#"
+    }
+  ],
+  "intro": {
+    "leftContent": "Manuel Terapi “el ile terapi-tedavi” anlamına gelmektedir. …",
+    "content": "Manuel terapinin tarihçesine bakıldığında bilinen ilk tanımı modern tıbbın temelini oluşturan Hipokrat tarafından verilmiştir.Dünyada yüzyıllardır birçok ülkede uygulanan manuel terapi yöntemlerinin 120 yıl önce tıp camiasına girerek bilimsel olarak araştırıldığı, çalışmalar yapıldığı ve manuel terapinin bir bilim dalı haline getirildiği görülür.",
+    "spmList": [
+      {
+        "id": 1,
+        "name": "Aenean sollicitudin"
+      },
+      {
+        "id": 2,
+        "name": "lorem quis bibendum auctor"
+      },
+      {
+        "id": 31,
+        "name": "nisi elit conseq uat ipsum"
+      },
+      {
+        "id": 4,
+        "name": "nec sagittis sem nibh id elit"
+      }
+    ]
+  },
+  "gallery": [
+    "/img/portfolio/project2/1.jpg",
+    "/img/portfolio/project2/2.jpg",
+    "/img/portfolio/project2/3.jpg",
+    "/img/portfolio/project2/5.jpg",
+    "/img/portfolio/project2/7.jpg"
+  ],
+  "description": {
+    "title": "Manuel Terapi",
+    "content": "Bel fıtığı, boyun fıtığı gibi kas iskelet sistemini ilgilendiren tüm hastalıklarda uygulanan tamamen kanıta dayalı tıp bilgileri ile yapılan uygulamalardır. Omurga ve ekstremite eklemlerindeki ağrı ve fonksiyon bozukluklarının tedavisinde uygulanan manuel terapi, maniplasyon, mobilizasyon, özel germe teknikleri, postizometrik relaksasyon teknikleri ve klinik bantlama teknikleri gibi yöntemler içerir. Gelişen teknoloji ve hareketsiz yaşamla birlikte ya da bilinçsiz yapılan hareketler sonucunda toplumun %80 inde bel ve boyun rahatsızlıkları görülmektedir. Ameliyat gerektirmeyen düzeydeki omurga problemlerinin/fıtıkların tedavisinde klasik fizik tedavi yöntemlerinin yetersiz kaldığını, insanların” fizik tedavi de gördüm ancak faydasını göremedim, hala ağrım var” dediğini defalarca duymuşsunuzdur. Çünkü klasik fizik tedavide semptomlara odaklanılır. Örneğin, boyun ağrısı şikâyetiniz varsa fizik tedavi modaliteleriyle ağrınız giderilmeye çalışılır. Peki ağrınızın geçmiş olması sorunun ortadan kalkmış olduğunu gösterir mi?"
+  }
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "icon": "",
+        "title": "Klinik Pilates",
+        "content": "Tempore corrupti temporibus fuga earum asperiores fugit laudantium."
+    },
+    {
+        "id": 2,
+        "icon": "",
+        "title": "Postur Analizi",
+        "content": "Tempore corrupti temporibus fuga earum asperiores fugit."
+    },
+    {
+        "id": 3,
+        "icon": "",
+        "title": "Manuel Terapi",
+        "content": "Tempore corrupti temporibus fuga earum asperiores fugit."
+    },
+    {
+        "id": 4,
+        "icon": "pe-7s-diskette",
+        "title": "Document Legal Policy",
+        "content": "Tempore corrupti temporibus fuga earum asperiores fugit laudantium."
+    }
+]
